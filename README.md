@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfólio - Adeildo Cunha dos Santos
 
-## Getting Started
+**Localização:** São Paulo – SP  
+**Cargo Pretendido:** Estagiário / Trainee / Desenvolvedor Júnior (Web)
 
-First, run the development server:
+Este é um portfólio desenvolvido com **Next.js 15**, **React 19** e **Tailwind CSS v4**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Como Executar
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1.  Instale as dependências:
+    ```bash
+    npm install
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2.  Rode o servidor de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
 
-## Learn More
+3.  Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Estrutura do Projeto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+*   `app/`: Páginas e layout do Next.js (App Router).
+*   `components/`: Componentes reutilizáveis (Hero, About, Projects, etc.).
+*   `data/`: Dados estáticos (lista de projetos).
+*   `public/`: Arquivos estáticos.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Conteúdo do Portfólio
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Apresentação
+Profissional em transição de carreira, graduado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Software.
+
+### Tecnologias
+*   **Front-end:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS.
+*   **Back-end:** Node.js, SQL (básico).
+*   **Ferramentas:** Git, GitHub, VS Code, Figma.
+
+### Projetos Destaque
+1.  **Task Manager**: Gerenciador de tarefas com React e LocalStorage.
+2.  **Landing Page**: Página institucional focada em SEO e performance.
+3.  **API de Usuários**: API RESTful com Node.js e Express.
+
+---
+
+## Deploy
+
+Este projeto está pronto para ser implantado na [Vercel](https://vercel.com). Basta importar o repositório e o deploy será automático.

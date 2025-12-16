@@ -2,6 +2,8 @@ import Hero from "@/components/Hero";
 import About from "@/components/About";
 import TechStack from "@/components/TechStack";
 import Projects from "@/components/Projects";
+import Education from "@/components/Education";
+import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -11,6 +13,8 @@ export default function Home() {
       <About />
       <TechStack />
       <Projects />
+      <Education />
+      <Contact />
       <Footer />
     </main>
   );
