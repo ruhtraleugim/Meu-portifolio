@@ -3,7 +3,7 @@
 **Localização:** São Paulo – SP  
 **Cargo Pretendido:** Estagiário / Trainee / Desenvolvedor Júnior (Web)
 
-Este é um portfólio desenvolvido com **Next.js 15**, **React 19** e **Tailwind CSS v4**.
+Este é o meu portifolio que desenvolvido com **Next.js 15**, **React 19** e **Tailwind CSS v4**.
 
 ---
 
@@ -51,4 +51,4 @@ Profissional em transição de carreira, graduado em Análise e Desenvolvimento 
 
 ## Deploy
 
-Este projeto está pronto para ser implantado na [Vercel](https://vercel.com). Basta importar o repositório e o deploy será automático.
+Este projeto está pronto para ser implantado na [Vercel](https://vercel.com). Basta importar o repositório e o deploy será automático. (ENTÃO SUBISTITUA ESSA PARTE POR ESSE LINK NA SUA CONTA VERCEL E VOILÁ) 
